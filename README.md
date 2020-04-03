@@ -7,6 +7,8 @@ This project has been developed in the Operating System course at EURECOM by the
  
  Website dedicated to the robot: http://www.andreatrufini.altervista.org/
 
+<p><img style="width:80%" align="center "src="Images/Robot.png" alt="Robot"></p>
+
 ## Did by Andrea Trufini
   The LegoOfLegends robot has been developed in different steps.
   I have worked on different aspects:
