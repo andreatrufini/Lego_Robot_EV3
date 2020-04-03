@@ -1,21 +1,21 @@
 # Lego Robot EV3
 
-This project has been developed in the Operating System course at EURECOM by:
+This project has been developed in the Operating System course at EURECOM by the **LegoOfLegends TEAM**, composed of:
  - Andrea TRUFINI (LINKEDIN: https://www.linkedin.com/in/andrea-trufini-15471899/)
  - Matteo GUARRERA (LINKEDIN: https://www.linkedin.com/in/matteoguarrera/)
  - Riccardo TORRES
  
  Website dedicated to the robot: http://www.andreatrufini.altervista.org/
 
-<center><h1>Andrea TRUFINI</h1></center>
-      The LegoOfLegends robot has been developed in different steps.
-      I have worked on different aspects:
-      <ol>
-        <li> all the movements of the robot;</li>
-        <li> a simulator to test the navigation algorithm; </li>
-        <li> the navigation of the robot; </li>
-        <li> developed this website. </li>
-      </ol>
+## Did by Andrea Trufini
+  The LegoOfLegends robot has been developed in different steps.
+  I have worked on different aspects:
+  <ol>
+    <li> all the movements of the robot;</li>
+    <li> a simulator to test the navigation algorithm; </li>
+    <li> the navigation of the robot; </li>
+    <li> developed this website. </li>
+  </ol>
 
   <p>During the development I faced different OS concepts like:</p>
       <ul>
@@ -53,7 +53,7 @@ This project has been developed in the Operating System course at EURECOM by:
       Functions to simulate objects in the map have been implemented. The next picture is an example of the
       output provided by the simulator. <br>
 
-<img style="width:80%; padding-left: 10%; padding-top:10px;"src="Images/field.png" alt="field">
+<p><img style="width:80%; padding-left: 10%; padding-top:10px;"src="Images/field.png" alt="field"></p>
 
   <br>
       It is possible to run the simulation in order to see the single movements of the robot in the map
