@@ -61,7 +61,7 @@ This project has been developed in the Operating System course at EURECOM by the
       robot, as shown in the following picture (the green part indicate the area covered by the robot).
       <br>
 
- <img style="width:60%; padding-left: 20%; padding-top:10px;"src="Images/Nav.png" alt="navigation">
+<p><img style="width:60%; padding-left: 20%; padding-top:10px;"src="Images/Nav.png" alt="navigation"></p>
 
  <h2>3. Navigation of the robot</h2>
         After the simulator has been done, and when the real mapping algorithm was ready, I merged the
